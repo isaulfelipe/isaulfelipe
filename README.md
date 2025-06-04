@@ -1,5 +1,5 @@
 ## Hi👋, I'm Isaul
-
+- Computer Science student at the Universidade Federal Rural do Semi-Arido (UFERSA);
 <!--
 **isaulfelipe/isaulfelipe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
